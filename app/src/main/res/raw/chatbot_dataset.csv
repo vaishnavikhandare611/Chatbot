@@ -1,0 +1,501 @@
+category,question,answer
+Computer Science,What is computer?,"A computer is an electronic device that accepts input, processes data, stores information, and produces output."
+Computer Science,Explain computer.,"A computer is an electronic device that accepts input, processes data, stores information, and produces output."
+Computer Science,Tell me about computer.,"A computer is an electronic device that accepts input, processes data, stores information, and produces output."
+Computer Science,Can you explain computer?,"A computer is an electronic device that accepts input, processes data, stores information, and produces output."
+Computer Science,Give me a brief explanation of computer.,"A computer is an electronic device that accepts input, processes data, stores information, and produces output."
+Computer Science,What is hardware?,"Hardware refers to the physical parts of a computer, such as the keyboard, monitor, CPU, and memory."
+Computer Science,Explain hardware.,"Hardware refers to the physical parts of a computer, such as the keyboard, monitor, CPU, and memory."
+Computer Science,Tell me about hardware.,"Hardware refers to the physical parts of a computer, such as the keyboard, monitor, CPU, and memory."
+Computer Science,Can you explain hardware?,"Hardware refers to the physical parts of a computer, such as the keyboard, monitor, CPU, and memory."
+Computer Science,Give me a brief explanation of hardware.,"Hardware refers to the physical parts of a computer, such as the keyboard, monitor, CPU, and memory."
+Computer Science,What is software?,Software is a set of programs and instructions that tell a computer what to do.
+Computer Science,Explain software.,Software is a set of programs and instructions that tell a computer what to do.
+Computer Science,Tell me about software.,Software is a set of programs and instructions that tell a computer what to do.
+Computer Science,Can you explain software?,Software is a set of programs and instructions that tell a computer what to do.
+Computer Science,Give me a brief explanation of software.,Software is a set of programs and instructions that tell a computer what to do.
+Computer Science,What is CPU?,"The CPU, or Central Processing Unit, executes instructions and performs calculations. It is often called the computer's brain."
+Computer Science,Explain CPU.,"The CPU, or Central Processing Unit, executes instructions and performs calculations. It is often called the computer's brain."
+Computer Science,Tell me about CPU.,"The CPU, or Central Processing Unit, executes instructions and performs calculations. It is often called the computer's brain."
+Computer Science,Can you explain CPU?,"The CPU, or Central Processing Unit, executes instructions and performs calculations. It is often called the computer's brain."
+Computer Science,Give me a brief explanation of CPU.,"The CPU, or Central Processing Unit, executes instructions and performs calculations. It is often called the computer's brain."
+Computer Science,What is RAM?,"RAM is temporary, volatile memory used to store data and programs that are currently in use."
+Computer Science,Explain RAM.,"RAM is temporary, volatile memory used to store data and programs that are currently in use."
+Computer Science,Tell me about RAM.,"RAM is temporary, volatile memory used to store data and programs that are currently in use."
+Computer Science,Can you explain RAM?,"RAM is temporary, volatile memory used to store data and programs that are currently in use."
+Computer Science,Give me a brief explanation of RAM.,"RAM is temporary, volatile memory used to store data and programs that are currently in use."
+Computer Science,What is ROM?,ROM is non-volatile memory that stores data or instructions that are retained when power is turned off.
+Computer Science,Explain ROM.,ROM is non-volatile memory that stores data or instructions that are retained when power is turned off.
+Computer Science,Tell me about ROM.,ROM is non-volatile memory that stores data or instructions that are retained when power is turned off.
+Computer Science,Can you explain ROM?,ROM is non-volatile memory that stores data or instructions that are retained when power is turned off.
+Computer Science,Give me a brief explanation of ROM.,ROM is non-volatile memory that stores data or instructions that are retained when power is turned off.
+Computer Science,What is operating system?,An operating system manages a device's hardware and software resources and provides services for applications.
+Computer Science,Explain operating system.,An operating system manages a device's hardware and software resources and provides services for applications.
+Computer Science,Tell me about operating system.,An operating system manages a device's hardware and software resources and provides services for applications.
+Computer Science,Can you explain operating system?,An operating system manages a device's hardware and software resources and provides services for applications.
+Computer Science,Give me a brief explanation of operating system.,An operating system manages a device's hardware and software resources and provides services for applications.
+Computer Science,What is database?,"A database is an organized collection of data that can be stored, searched, updated, and managed."
+Computer Science,Explain database.,"A database is an organized collection of data that can be stored, searched, updated, and managed."
+Computer Science,Tell me about database.,"A database is an organized collection of data that can be stored, searched, updated, and managed."
+Computer Science,Can you explain database?,"A database is an organized collection of data that can be stored, searched, updated, and managed."
+Computer Science,Give me a brief explanation of database.,"A database is an organized collection of data that can be stored, searched, updated, and managed."
+Computer Science,What is algorithm?,An algorithm is a finite sequence of clear steps used to solve a problem or complete a task.
+Computer Science,Explain algorithm.,An algorithm is a finite sequence of clear steps used to solve a problem or complete a task.
+Computer Science,Tell me about algorithm.,An algorithm is a finite sequence of clear steps used to solve a problem or complete a task.
+Computer Science,Can you explain algorithm?,An algorithm is a finite sequence of clear steps used to solve a problem or complete a task.
+Computer Science,Give me a brief explanation of algorithm.,An algorithm is a finite sequence of clear steps used to solve a problem or complete a task.
+Computer Science,What is data structure?,A data structure is a way of organizing and storing data so it can be accessed and modified efficiently.
+Computer Science,Explain data structure.,A data structure is a way of organizing and storing data so it can be accessed and modified efficiently.
+Computer Science,Tell me about data structure.,A data structure is a way of organizing and storing data so it can be accessed and modified efficiently.
+Computer Science,Can you explain data structure?,A data structure is a way of organizing and storing data so it can be accessed and modified efficiently.
+Computer Science,Give me a brief explanation of data structure.,A data structure is a way of organizing and storing data so it can be accessed and modified efficiently.
+Computer Science,What is network?,A computer network is a group of connected devices that can communicate and share resources.
+Computer Science,Explain network.,A computer network is a group of connected devices that can communicate and share resources.
+Computer Science,Tell me about network.,A computer network is a group of connected devices that can communicate and share resources.
+Computer Science,Can you explain network?,A computer network is a group of connected devices that can communicate and share resources.
+Computer Science,Give me a brief explanation of network.,A computer network is a group of connected devices that can communicate and share resources.
+Computer Science,What is internet?,The internet is a global network of interconnected computer networks that communicate using standard protocols.
+Computer Science,Explain internet.,The internet is a global network of interconnected computer networks that communicate using standard protocols.
+Computer Science,Tell me about internet.,The internet is a global network of interconnected computer networks that communicate using standard protocols.
+Computer Science,Can you explain internet?,The internet is a global network of interconnected computer networks that communicate using standard protocols.
+Computer Science,Give me a brief explanation of internet.,The internet is a global network of interconnected computer networks that communicate using standard protocols.
+Computer Science,What is IP address?,An IP address is a numerical address used to identify a device on an IP network.
+Computer Science,Explain IP address.,An IP address is a numerical address used to identify a device on an IP network.
+Computer Science,Tell me about IP address.,An IP address is a numerical address used to identify a device on an IP network.
+Computer Science,Can you explain IP address?,An IP address is a numerical address used to identify a device on an IP network.
+Computer Science,Give me a brief explanation of IP address.,An IP address is a numerical address used to identify a device on an IP network.
+Computer Science,What is web browser?,"A web browser is an application used to access and view websites, such as Chrome, Firefox, or Safari."
+Computer Science,Explain web browser.,"A web browser is an application used to access and view websites, such as Chrome, Firefox, or Safari."
+Computer Science,Tell me about web browser.,"A web browser is an application used to access and view websites, such as Chrome, Firefox, or Safari."
+Computer Science,Can you explain web browser?,"A web browser is an application used to access and view websites, such as Chrome, Firefox, or Safari."
+Computer Science,Give me a brief explanation of web browser.,"A web browser is an application used to access and view websites, such as Chrome, Firefox, or Safari."
+Computer Science,What is cloud computing?,"Cloud computing provides computing resources such as storage, servers, and software over the internet."
+Computer Science,Explain cloud computing.,"Cloud computing provides computing resources such as storage, servers, and software over the internet."
+Computer Science,Tell me about cloud computing.,"Cloud computing provides computing resources such as storage, servers, and software over the internet."
+Computer Science,Can you explain cloud computing?,"Cloud computing provides computing resources such as storage, servers, and software over the internet."
+Computer Science,Give me a brief explanation of cloud computing.,"Cloud computing provides computing resources such as storage, servers, and software over the internet."
+Computer Science,What is cybersecurity?,"Cybersecurity is the practice of protecting systems, networks, and data from digital attacks and unauthorized access."
+Computer Science,Explain cybersecurity.,"Cybersecurity is the practice of protecting systems, networks, and data from digital attacks and unauthorized access."
+Computer Science,Tell me about cybersecurity.,"Cybersecurity is the practice of protecting systems, networks, and data from digital attacks and unauthorized access."
+Computer Science,Can you explain cybersecurity?,"Cybersecurity is the practice of protecting systems, networks, and data from digital attacks and unauthorized access."
+Computer Science,Give me a brief explanation of cybersecurity.,"Cybersecurity is the practice of protecting systems, networks, and data from digital attacks and unauthorized access."
+Computer Science,What is encryption?,Encryption converts readable data into coded data so that it can be read only by someone with the appropriate key.
+Computer Science,Explain encryption.,Encryption converts readable data into coded data so that it can be read only by someone with the appropriate key.
+Computer Science,Tell me about encryption.,Encryption converts readable data into coded data so that it can be read only by someone with the appropriate key.
+Computer Science,Can you explain encryption?,Encryption converts readable data into coded data so that it can be read only by someone with the appropriate key.
+Computer Science,Give me a brief explanation of encryption.,Encryption converts readable data into coded data so that it can be read only by someone with the appropriate key.
+Computer Science,What is artificial intelligence?,Artificial intelligence is a field of computing focused on systems that perform tasks commonly associated with human intelligence.
+Computer Science,Explain artificial intelligence.,Artificial intelligence is a field of computing focused on systems that perform tasks commonly associated with human intelligence.
+Computer Science,Tell me about artificial intelligence.,Artificial intelligence is a field of computing focused on systems that perform tasks commonly associated with human intelligence.
+Computer Science,Can you explain artificial intelligence?,Artificial intelligence is a field of computing focused on systems that perform tasks commonly associated with human intelligence.
+Computer Science,Give me a brief explanation of artificial intelligence.,Artificial intelligence is a field of computing focused on systems that perform tasks commonly associated with human intelligence.
+Computer Science,What is machine learning?,Machine learning is a branch of AI in which systems learn patterns from data to make predictions or decisions.
+Computer Science,Explain machine learning.,Machine learning is a branch of AI in which systems learn patterns from data to make predictions or decisions.
+Computer Science,Tell me about machine learning.,Machine learning is a branch of AI in which systems learn patterns from data to make predictions or decisions.
+Computer Science,Can you explain machine learning?,Machine learning is a branch of AI in which systems learn patterns from data to make predictions or decisions.
+Computer Science,Give me a brief explanation of machine learning.,Machine learning is a branch of AI in which systems learn patterns from data to make predictions or decisions.
+Computer Science,What is compiler?,"A compiler translates source code into another form, often machine code, before the program is run."
+Computer Science,Explain compiler.,"A compiler translates source code into another form, often machine code, before the program is run."
+Computer Science,Tell me about compiler.,"A compiler translates source code into another form, often machine code, before the program is run."
+Computer Science,Can you explain compiler?,"A compiler translates source code into another form, often machine code, before the program is run."
+Computer Science,Give me a brief explanation of compiler.,"A compiler translates source code into another form, often machine code, before the program is run."
+Computer Science,What is interpreter?,An interpreter executes source code or an intermediate representation by processing instructions at runtime.
+Computer Science,Explain interpreter.,An interpreter executes source code or an intermediate representation by processing instructions at runtime.
+Computer Science,Tell me about interpreter.,An interpreter executes source code or an intermediate representation by processing instructions at runtime.
+Computer Science,Can you explain interpreter?,An interpreter executes source code or an intermediate representation by processing instructions at runtime.
+Computer Science,Give me a brief explanation of interpreter.,An interpreter executes source code or an intermediate representation by processing instructions at runtime.
+Computer Science,What is binary number system?,The binary number system uses only two digits: 0 and 1.
+Computer Science,Explain binary number system.,The binary number system uses only two digits: 0 and 1.
+Computer Science,Tell me about binary number system.,The binary number system uses only two digits: 0 and 1.
+Computer Science,Can you explain binary number system?,The binary number system uses only two digits: 0 and 1.
+Computer Science,Give me a brief explanation of binary number system.,The binary number system uses only two digits: 0 and 1.
+Computer Science,What is cache memory?,"Cache memory is small, fast memory that stores frequently used data to help the processor access it quickly."
+Computer Science,Explain cache memory.,"Cache memory is small, fast memory that stores frequently used data to help the processor access it quickly."
+Computer Science,Tell me about cache memory.,"Cache memory is small, fast memory that stores frequently used data to help the processor access it quickly."
+Computer Science,Can you explain cache memory?,"Cache memory is small, fast memory that stores frequently used data to help the processor access it quickly."
+Computer Science,Give me a brief explanation of cache memory.,"Cache memory is small, fast memory that stores frequently used data to help the processor access it quickly."
+Computer Science,What is server?,"A server is a computer or program that provides data, services, or resources to other computers called clients."
+Computer Science,Explain server.,"A server is a computer or program that provides data, services, or resources to other computers called clients."
+Computer Science,Tell me about server.,"A server is a computer or program that provides data, services, or resources to other computers called clients."
+Computer Science,Can you explain server?,"A server is a computer or program that provides data, services, or resources to other computers called clients."
+Computer Science,Give me a brief explanation of server.,"A server is a computer or program that provides data, services, or resources to other computers called clients."
+Computer Science,What is API?,"An API, or Application Programming Interface, defines how software components can communicate with each other."
+Computer Science,Explain API.,"An API, or Application Programming Interface, defines how software components can communicate with each other."
+Computer Science,Tell me about API.,"An API, or Application Programming Interface, defines how software components can communicate with each other."
+Computer Science,Can you explain API?,"An API, or Application Programming Interface, defines how software components can communicate with each other."
+Computer Science,Give me a brief explanation of API.,"An API, or Application Programming Interface, defines how software components can communicate with each other."
+Programming,What is programming?,Programming is the process of writing instructions that a computer can execute to perform tasks.
+Programming,Explain programming.,Programming is the process of writing instructions that a computer can execute to perform tasks.
+Programming,Tell me about programming.,Programming is the process of writing instructions that a computer can execute to perform tasks.
+Programming,Can you explain programming?,Programming is the process of writing instructions that a computer can execute to perform tasks.
+Programming,Give me a brief explanation of programming.,Programming is the process of writing instructions that a computer can execute to perform tasks.
+Programming,What is programming language?,A programming language is a formal language used to write instructions for computers.
+Programming,Explain programming language.,A programming language is a formal language used to write instructions for computers.
+Programming,Tell me about programming language.,A programming language is a formal language used to write instructions for computers.
+Programming,Can you explain programming language?,A programming language is a formal language used to write instructions for computers.
+Programming,Give me a brief explanation of programming language.,A programming language is a formal language used to write instructions for computers.
+Programming,What is Java?,"Java is a general-purpose, object-oriented programming language designed to run on many platforms through the Java Virtual Machine."
+Programming,Explain Java.,"Java is a general-purpose, object-oriented programming language designed to run on many platforms through the Java Virtual Machine."
+Programming,Tell me about Java.,"Java is a general-purpose, object-oriented programming language designed to run on many platforms through the Java Virtual Machine."
+Programming,Can you explain Java?,"Java is a general-purpose, object-oriented programming language designed to run on many platforms through the Java Virtual Machine."
+Programming,Give me a brief explanation of Java.,"Java is a general-purpose, object-oriented programming language designed to run on many platforms through the Java Virtual Machine."
+Programming,What is Python?,"Python is a high-level programming language known for readable syntax and broad use in automation, data science, web development, and AI."
+Programming,Explain Python.,"Python is a high-level programming language known for readable syntax and broad use in automation, data science, web development, and AI."
+Programming,Tell me about Python.,"Python is a high-level programming language known for readable syntax and broad use in automation, data science, web development, and AI."
+Programming,Can you explain Python?,"Python is a high-level programming language known for readable syntax and broad use in automation, data science, web development, and AI."
+Programming,Give me a brief explanation of Python.,"Python is a high-level programming language known for readable syntax and broad use in automation, data science, web development, and AI."
+Programming,What is C?,"C is a procedural programming language often used for operating systems, embedded software, and performance-sensitive programs."
+Programming,Explain C.,"C is a procedural programming language often used for operating systems, embedded software, and performance-sensitive programs."
+Programming,Tell me about C.,"C is a procedural programming language often used for operating systems, embedded software, and performance-sensitive programs."
+Programming,Can you explain C?,"C is a procedural programming language often used for operating systems, embedded software, and performance-sensitive programs."
+Programming,Give me a brief explanation of C.,"C is a procedural programming language often used for operating systems, embedded software, and performance-sensitive programs."
+Programming,What is C++?,"C++ is a general-purpose language that supports procedural, object-oriented, and generic programming."
+Programming,Explain C++.,"C++ is a general-purpose language that supports procedural, object-oriented, and generic programming."
+Programming,Tell me about C++.,"C++ is a general-purpose language that supports procedural, object-oriented, and generic programming."
+Programming,Can you explain C++?,"C++ is a general-purpose language that supports procedural, object-oriented, and generic programming."
+Programming,Give me a brief explanation of C++.,"C++ is a general-purpose language that supports procedural, object-oriented, and generic programming."
+Programming,What is JavaScript?,JavaScript is a programming language widely used to make web pages interactive and to build server-side applications.
+Programming,Explain JavaScript.,JavaScript is a programming language widely used to make web pages interactive and to build server-side applications.
+Programming,Tell me about JavaScript.,JavaScript is a programming language widely used to make web pages interactive and to build server-side applications.
+Programming,Can you explain JavaScript?,JavaScript is a programming language widely used to make web pages interactive and to build server-side applications.
+Programming,Give me a brief explanation of JavaScript.,JavaScript is a programming language widely used to make web pages interactive and to build server-side applications.
+Programming,What is Kotlin?,Kotlin is a modern programming language that runs on the JVM and is commonly used for Android development.
+Programming,Explain Kotlin.,Kotlin is a modern programming language that runs on the JVM and is commonly used for Android development.
+Programming,Tell me about Kotlin.,Kotlin is a modern programming language that runs on the JVM and is commonly used for Android development.
+Programming,Can you explain Kotlin?,Kotlin is a modern programming language that runs on the JVM and is commonly used for Android development.
+Programming,Give me a brief explanation of Kotlin.,Kotlin is a modern programming language that runs on the JVM and is commonly used for Android development.
+Programming,What is HTML?,HTML is a markup language used to structure content on web pages; it is not generally classified as a programming language.
+Programming,Explain HTML.,HTML is a markup language used to structure content on web pages; it is not generally classified as a programming language.
+Programming,Tell me about HTML.,HTML is a markup language used to structure content on web pages; it is not generally classified as a programming language.
+Programming,Can you explain HTML?,HTML is a markup language used to structure content on web pages; it is not generally classified as a programming language.
+Programming,Give me a brief explanation of HTML.,HTML is a markup language used to structure content on web pages; it is not generally classified as a programming language.
+Programming,What is CSS?,CSS is a style sheet language used to control the appearance and layout of web pages.
+Programming,Explain CSS.,CSS is a style sheet language used to control the appearance and layout of web pages.
+Programming,Tell me about CSS.,CSS is a style sheet language used to control the appearance and layout of web pages.
+Programming,Can you explain CSS?,CSS is a style sheet language used to control the appearance and layout of web pages.
+Programming,Give me a brief explanation of CSS.,CSS is a style sheet language used to control the appearance and layout of web pages.
+Programming,What is variable?,A variable is a named storage location or binding used to hold a value that a program can use.
+Programming,Explain variable.,A variable is a named storage location or binding used to hold a value that a program can use.
+Programming,Tell me about variable.,A variable is a named storage location or binding used to hold a value that a program can use.
+Programming,Can you explain variable?,A variable is a named storage location or binding used to hold a value that a program can use.
+Programming,Give me a brief explanation of variable.,A variable is a named storage location or binding used to hold a value that a program can use.
+Programming,What is constant?,A constant is a value or named binding that is not intended to change during the relevant part of a program.
+Programming,Explain constant.,A constant is a value or named binding that is not intended to change during the relevant part of a program.
+Programming,Tell me about constant.,A constant is a value or named binding that is not intended to change during the relevant part of a program.
+Programming,Can you explain constant?,A constant is a value or named binding that is not intended to change during the relevant part of a program.
+Programming,Give me a brief explanation of constant.,A constant is a value or named binding that is not intended to change during the relevant part of a program.
+Programming,What is data type?,"A data type defines the kind of value a variable can hold, such as an integer, text, or Boolean value."
+Programming,Explain data type.,"A data type defines the kind of value a variable can hold, such as an integer, text, or Boolean value."
+Programming,Tell me about data type.,"A data type defines the kind of value a variable can hold, such as an integer, text, or Boolean value."
+Programming,Can you explain data type?,"A data type defines the kind of value a variable can hold, such as an integer, text, or Boolean value."
+Programming,Give me a brief explanation of data type.,"A data type defines the kind of value a variable can hold, such as an integer, text, or Boolean value."
+Programming,What is function?,A function is a reusable block of code that performs a particular task and may accept inputs and return a result.
+Programming,Explain function.,A function is a reusable block of code that performs a particular task and may accept inputs and return a result.
+Programming,Tell me about function.,A function is a reusable block of code that performs a particular task and may accept inputs and return a result.
+Programming,Can you explain function?,A function is a reusable block of code that performs a particular task and may accept inputs and return a result.
+Programming,Give me a brief explanation of function.,A function is a reusable block of code that performs a particular task and may accept inputs and return a result.
+Programming,What is loop?,A loop repeatedly executes a block of code while a condition holds or for a specified number of iterations.
+Programming,Explain loop.,A loop repeatedly executes a block of code while a condition holds or for a specified number of iterations.
+Programming,Tell me about loop.,A loop repeatedly executes a block of code while a condition holds or for a specified number of iterations.
+Programming,Can you explain loop?,A loop repeatedly executes a block of code while a condition holds or for a specified number of iterations.
+Programming,Give me a brief explanation of loop.,A loop repeatedly executes a block of code while a condition holds or for a specified number of iterations.
+Programming,What is array?,"An array is a data structure that stores a sequence of elements, usually accessed by index."
+Programming,Explain array.,"An array is a data structure that stores a sequence of elements, usually accessed by index."
+Programming,Tell me about array.,"An array is a data structure that stores a sequence of elements, usually accessed by index."
+Programming,Can you explain array?,"An array is a data structure that stores a sequence of elements, usually accessed by index."
+Programming,Give me a brief explanation of array.,"An array is a data structure that stores a sequence of elements, usually accessed by index."
+Programming,What is string?,A string is a sequence of characters used to represent text.
+Programming,Explain string.,A string is a sequence of characters used to represent text.
+Programming,Tell me about string.,A string is a sequence of characters used to represent text.
+Programming,Can you explain string?,A string is a sequence of characters used to represent text.
+Programming,Give me a brief explanation of string.,A string is a sequence of characters used to represent text.
+Programming,What is object-oriented programming?,Object-oriented programming organizes software around objects that combine data and behavior.
+Programming,Explain object-oriented programming.,Object-oriented programming organizes software around objects that combine data and behavior.
+Programming,Tell me about object-oriented programming.,Object-oriented programming organizes software around objects that combine data and behavior.
+Programming,Can you explain object-oriented programming?,Object-oriented programming organizes software around objects that combine data and behavior.
+Programming,Give me a brief explanation of object-oriented programming.,Object-oriented programming organizes software around objects that combine data and behavior.
+Programming,What is class?,A class is a blueprint that defines the data and behavior that its objects can have.
+Programming,Explain class.,A class is a blueprint that defines the data and behavior that its objects can have.
+Programming,Tell me about class.,A class is a blueprint that defines the data and behavior that its objects can have.
+Programming,Can you explain class?,A class is a blueprint that defines the data and behavior that its objects can have.
+Programming,Give me a brief explanation of class.,A class is a blueprint that defines the data and behavior that its objects can have.
+Programming,What is object?,An object is an instance of a class or a self-contained entity that combines state and behavior.
+Programming,Explain object.,An object is an instance of a class or a self-contained entity that combines state and behavior.
+Programming,Tell me about object.,An object is an instance of a class or a self-contained entity that combines state and behavior.
+Programming,Can you explain object?,An object is an instance of a class or a self-contained entity that combines state and behavior.
+Programming,Give me a brief explanation of object.,An object is an instance of a class or a self-contained entity that combines state and behavior.
+Programming,What is inheritance?,Inheritance is an object-oriented programming feature that lets one class derive or reuse features from another class.
+Programming,Explain inheritance.,Inheritance is an object-oriented programming feature that lets one class derive or reuse features from another class.
+Programming,Tell me about inheritance.,Inheritance is an object-oriented programming feature that lets one class derive or reuse features from another class.
+Programming,Can you explain inheritance?,Inheritance is an object-oriented programming feature that lets one class derive or reuse features from another class.
+Programming,Give me a brief explanation of inheritance.,Inheritance is an object-oriented programming feature that lets one class derive or reuse features from another class.
+Programming,What is polymorphism?,Polymorphism allows the same interface or operation to behave differently for different types or objects.
+Programming,Explain polymorphism.,Polymorphism allows the same interface or operation to behave differently for different types or objects.
+Programming,Tell me about polymorphism.,Polymorphism allows the same interface or operation to behave differently for different types or objects.
+Programming,Can you explain polymorphism?,Polymorphism allows the same interface or operation to behave differently for different types or objects.
+Programming,Give me a brief explanation of polymorphism.,Polymorphism allows the same interface or operation to behave differently for different types or objects.
+Programming,What is encapsulation?,Encapsulation bundles data with related methods and controls how internal details are accessed.
+Programming,Explain encapsulation.,Encapsulation bundles data with related methods and controls how internal details are accessed.
+Programming,Tell me about encapsulation.,Encapsulation bundles data with related methods and controls how internal details are accessed.
+Programming,Can you explain encapsulation?,Encapsulation bundles data with related methods and controls how internal details are accessed.
+Programming,Give me a brief explanation of encapsulation.,Encapsulation bundles data with related methods and controls how internal details are accessed.
+Programming,What is exception handling?,Exception handling is a way to detect and manage runtime errors or unusual conditions without abruptly stopping a program.
+Programming,Explain exception handling.,Exception handling is a way to detect and manage runtime errors or unusual conditions without abruptly stopping a program.
+Programming,Tell me about exception handling.,Exception handling is a way to detect and manage runtime errors or unusual conditions without abruptly stopping a program.
+Programming,Can you explain exception handling?,Exception handling is a way to detect and manage runtime errors or unusual conditions without abruptly stopping a program.
+Programming,Give me a brief explanation of exception handling.,Exception handling is a way to detect and manage runtime errors or unusual conditions without abruptly stopping a program.
+Programming,What is debugging?,"Debugging is the process of finding, understanding, and fixing errors in a program."
+Programming,Explain debugging.,"Debugging is the process of finding, understanding, and fixing errors in a program."
+Programming,Tell me about debugging.,"Debugging is the process of finding, understanding, and fixing errors in a program."
+Programming,Can you explain debugging?,"Debugging is the process of finding, understanding, and fixing errors in a program."
+Programming,Give me a brief explanation of debugging.,"Debugging is the process of finding, understanding, and fixing errors in a program."
+General,What is internet?,The internet is a worldwide system of connected networks that allows devices to exchange information.
+General,Explain internet.,The internet is a worldwide system of connected networks that allows devices to exchange information.
+General,Tell me about internet.,The internet is a worldwide system of connected networks that allows devices to exchange information.
+General,Can you explain internet?,The internet is a worldwide system of connected networks that allows devices to exchange information.
+General,Give me a brief explanation of internet.,The internet is a worldwide system of connected networks that allows devices to exchange information.
+General,What is email?,Email is a method of sending and receiving digital messages over a network.
+General,Explain email.,Email is a method of sending and receiving digital messages over a network.
+General,Tell me about email.,Email is a method of sending and receiving digital messages over a network.
+General,Can you explain email?,Email is a method of sending and receiving digital messages over a network.
+General,Give me a brief explanation of email.,Email is a method of sending and receiving digital messages over a network.
+General,What is search engine?,A search engine helps users find information on the web by searching an index of online content.
+General,Explain search engine.,A search engine helps users find information on the web by searching an index of online content.
+General,Tell me about search engine.,A search engine helps users find information on the web by searching an index of online content.
+General,Can you explain search engine?,A search engine helps users find information on the web by searching an index of online content.
+General,Give me a brief explanation of search engine.,A search engine helps users find information on the web by searching an index of online content.
+General,What is smartphone?,"A smartphone is a mobile phone with computing features such as apps, internet access, a camera, and a touchscreen."
+General,Explain smartphone.,"A smartphone is a mobile phone with computing features such as apps, internet access, a camera, and a touchscreen."
+General,Tell me about smartphone.,"A smartphone is a mobile phone with computing features such as apps, internet access, a camera, and a touchscreen."
+General,Can you explain smartphone?,"A smartphone is a mobile phone with computing features such as apps, internet access, a camera, and a touchscreen."
+General,Give me a brief explanation of smartphone.,"A smartphone is a mobile phone with computing features such as apps, internet access, a camera, and a touchscreen."
+General,What is Wi-Fi?,Wi-Fi is a wireless networking technology that allows devices to connect to a local network.
+General,Explain Wi-Fi.,Wi-Fi is a wireless networking technology that allows devices to connect to a local network.
+General,Tell me about Wi-Fi.,Wi-Fi is a wireless networking technology that allows devices to connect to a local network.
+General,Can you explain Wi-Fi?,Wi-Fi is a wireless networking technology that allows devices to connect to a local network.
+General,Give me a brief explanation of Wi-Fi.,Wi-Fi is a wireless networking technology that allows devices to connect to a local network.
+General,What is Bluetooth?,Bluetooth is a short-range wireless technology used to exchange data between nearby devices.
+General,Explain Bluetooth.,Bluetooth is a short-range wireless technology used to exchange data between nearby devices.
+General,Tell me about Bluetooth.,Bluetooth is a short-range wireless technology used to exchange data between nearby devices.
+General,Can you explain Bluetooth?,Bluetooth is a short-range wireless technology used to exchange data between nearby devices.
+General,Give me a brief explanation of Bluetooth.,Bluetooth is a short-range wireless technology used to exchange data between nearby devices.
+General,What is GPS?,"GPS is a satellite-based navigation system that helps determine location, speed, and time."
+General,Explain GPS.,"GPS is a satellite-based navigation system that helps determine location, speed, and time."
+General,Tell me about GPS.,"GPS is a satellite-based navigation system that helps determine location, speed, and time."
+General,Can you explain GPS?,"GPS is a satellite-based navigation system that helps determine location, speed, and time."
+General,Give me a brief explanation of GPS.,"GPS is a satellite-based navigation system that helps determine location, speed, and time."
+General,What is QR code?,A QR code is a two-dimensional barcode that can store information such as a link or text.
+General,Explain QR code.,A QR code is a two-dimensional barcode that can store information such as a link or text.
+General,Tell me about QR code.,A QR code is a two-dimensional barcode that can store information such as a link or text.
+General,Can you explain QR code?,A QR code is a two-dimensional barcode that can store information such as a link or text.
+General,Give me a brief explanation of QR code.,A QR code is a two-dimensional barcode that can store information such as a link or text.
+General,What is password?,A password is a secret string used to verify a user's identity or protect access to an account.
+General,Explain password.,A password is a secret string used to verify a user's identity or protect access to an account.
+General,Tell me about password.,A password is a secret string used to verify a user's identity or protect access to an account.
+General,Can you explain password?,A password is a secret string used to verify a user's identity or protect access to an account.
+General,Give me a brief explanation of password.,A password is a secret string used to verify a user's identity or protect access to an account.
+General,What is two-factor authentication?,"Two-factor authentication adds a second verification step beyond a password, improving account security."
+General,Explain two-factor authentication.,"Two-factor authentication adds a second verification step beyond a password, improving account security."
+General,Tell me about two-factor authentication.,"Two-factor authentication adds a second verification step beyond a password, improving account security."
+General,Can you explain two-factor authentication?,"Two-factor authentication adds a second verification step beyond a password, improving account security."
+General,Give me a brief explanation of two-factor authentication.,"Two-factor authentication adds a second verification step beyond a password, improving account security."
+General,What is backup?,A backup is a separate copy of data that can be used to restore information if the original is lost or damaged.
+General,Explain backup.,A backup is a separate copy of data that can be used to restore information if the original is lost or damaged.
+General,Tell me about backup.,A backup is a separate copy of data that can be used to restore information if the original is lost or damaged.
+General,Can you explain backup?,A backup is a separate copy of data that can be used to restore information if the original is lost or damaged.
+General,Give me a brief explanation of backup.,A backup is a separate copy of data that can be used to restore information if the original is lost or damaged.
+General,What is file?,A file is a named collection of data stored on a device or in a system.
+General,Explain file.,A file is a named collection of data stored on a device or in a system.
+General,Tell me about file.,A file is a named collection of data stored on a device or in a system.
+General,Can you explain file?,A file is a named collection of data stored on a device or in a system.
+General,Give me a brief explanation of file.,A file is a named collection of data stored on a device or in a system.
+General,What is folder?,A folder is a container used to organize files and sometimes other folders.
+General,Explain folder.,A folder is a container used to organize files and sometimes other folders.
+General,Tell me about folder.,A folder is a container used to organize files and sometimes other folders.
+General,Can you explain folder?,A folder is a container used to organize files and sometimes other folders.
+General,Give me a brief explanation of folder.,A folder is a container used to organize files and sometimes other folders.
+General,What is PDF?,"PDF stands for Portable Document Format, a file format designed to preserve document layout across devices."
+General,Explain PDF.,"PDF stands for Portable Document Format, a file format designed to preserve document layout across devices."
+General,Tell me about PDF.,"PDF stands for Portable Document Format, a file format designed to preserve document layout across devices."
+General,Can you explain PDF?,"PDF stands for Portable Document Format, a file format designed to preserve document layout across devices."
+General,Give me a brief explanation of PDF.,"PDF stands for Portable Document Format, a file format designed to preserve document layout across devices."
+General,What is USB?,USB is a standard used to connect devices and transfer data or power.
+General,Explain USB.,USB is a standard used to connect devices and transfer data or power.
+General,Tell me about USB.,USB is a standard used to connect devices and transfer data or power.
+General,Can you explain USB?,USB is a standard used to connect devices and transfer data or power.
+General,Give me a brief explanation of USB.,USB is a standard used to connect devices and transfer data or power.
+General,What is operating system update?,"An operating system update provides changes such as security fixes, bug fixes, and new features."
+General,Explain operating system update.,"An operating system update provides changes such as security fixes, bug fixes, and new features."
+General,Tell me about operating system update.,"An operating system update provides changes such as security fixes, bug fixes, and new features."
+General,Can you explain operating system update?,"An operating system update provides changes such as security fixes, bug fixes, and new features."
+General,Give me a brief explanation of operating system update.,"An operating system update provides changes such as security fixes, bug fixes, and new features."
+General,What is app?,An app is a software application designed to perform specific tasks on a computer or mobile device.
+General,Explain app.,An app is a software application designed to perform specific tasks on a computer or mobile device.
+General,Tell me about app.,An app is a software application designed to perform specific tasks on a computer or mobile device.
+General,Can you explain app?,An app is a software application designed to perform specific tasks on a computer or mobile device.
+General,Give me a brief explanation of app.,An app is a software application designed to perform specific tasks on a computer or mobile device.
+General,What is website?,A website is a collection of related web pages and resources available under a domain or web address.
+General,Explain website.,A website is a collection of related web pages and resources available under a domain or web address.
+General,Tell me about website.,A website is a collection of related web pages and resources available under a domain or web address.
+General,Can you explain website?,A website is a collection of related web pages and resources available under a domain or web address.
+General,Give me a brief explanation of website.,A website is a collection of related web pages and resources available under a domain or web address.
+General,What is download?,"Downloading means receiving data or a file from another system, commonly over the internet."
+General,Explain download.,"Downloading means receiving data or a file from another system, commonly over the internet."
+General,Tell me about download.,"Downloading means receiving data or a file from another system, commonly over the internet."
+General,Can you explain download?,"Downloading means receiving data or a file from another system, commonly over the internet."
+General,Give me a brief explanation of download.,"Downloading means receiving data or a file from another system, commonly over the internet."
+General,What is upload?,Uploading means sending data or a file from your device to another system or service.
+General,Explain upload.,Uploading means sending data or a file from your device to another system or service.
+General,Tell me about upload.,Uploading means sending data or a file from your device to another system or service.
+General,Can you explain upload?,Uploading means sending data or a file from your device to another system or service.
+General,Give me a brief explanation of upload.,Uploading means sending data or a file from your device to another system or service.
+General,What is digital footprint?,A digital footprint is the trail of information created by a person's activities online.
+General,Explain digital footprint.,A digital footprint is the trail of information created by a person's activities online.
+General,Tell me about digital footprint.,A digital footprint is the trail of information created by a person's activities online.
+General,Can you explain digital footprint?,A digital footprint is the trail of information created by a person's activities online.
+General,Give me a brief explanation of digital footprint.,A digital footprint is the trail of information created by a person's activities online.
+General,What is spam?,"Spam is unwanted or unsolicited digital communication, often sent in bulk."
+General,Explain spam.,"Spam is unwanted or unsolicited digital communication, often sent in bulk."
+General,Tell me about spam.,"Spam is unwanted or unsolicited digital communication, often sent in bulk."
+General,Can you explain spam?,"Spam is unwanted or unsolicited digital communication, often sent in bulk."
+General,Give me a brief explanation of spam.,"Spam is unwanted or unsolicited digital communication, often sent in bulk."
+General,What is phishing?,Phishing is a scam that tries to trick people into revealing sensitive information or opening harmful links.
+General,Explain phishing.,Phishing is a scam that tries to trick people into revealing sensitive information or opening harmful links.
+General,Tell me about phishing.,Phishing is a scam that tries to trick people into revealing sensitive information or opening harmful links.
+General,Can you explain phishing?,Phishing is a scam that tries to trick people into revealing sensitive information or opening harmful links.
+General,Give me a brief explanation of phishing.,Phishing is a scam that tries to trick people into revealing sensitive information or opening harmful links.
+General,What is open-source software?,"Open-source software makes its source code available under a license that permits specified use, study, modification, and sharing."
+General,Explain open-source software.,"Open-source software makes its source code available under a license that permits specified use, study, modification, and sharing."
+General,Tell me about open-source software.,"Open-source software makes its source code available under a license that permits specified use, study, modification, and sharing."
+General,Can you explain open-source software?,"Open-source software makes its source code available under a license that permits specified use, study, modification, and sharing."
+General,Give me a brief explanation of open-source software.,"Open-source software makes its source code available under a license that permits specified use, study, modification, and sharing."
+General,What is e-commerce?,"E-commerce is the buying and selling of goods or services through electronic networks, especially the internet."
+General,Explain e-commerce.,"E-commerce is the buying and selling of goods or services through electronic networks, especially the internet."
+General,Tell me about e-commerce.,"E-commerce is the buying and selling of goods or services through electronic networks, especially the internet."
+General,Can you explain e-commerce?,"E-commerce is the buying and selling of goods or services through electronic networks, especially the internet."
+General,Give me a brief explanation of e-commerce.,"E-commerce is the buying and selling of goods or services through electronic networks, especially the internet."
+Education,What is education?,"Education is the process of gaining knowledge, skills, values, and understanding through learning and experience."
+Education,Explain education.,"Education is the process of gaining knowledge, skills, values, and understanding through learning and experience."
+Education,Tell me about education.,"Education is the process of gaining knowledge, skills, values, and understanding through learning and experience."
+Education,Can you explain education?,"Education is the process of gaining knowledge, skills, values, and understanding through learning and experience."
+Education,Give me a brief explanation of education.,"Education is the process of gaining knowledge, skills, values, and understanding through learning and experience."
+Education,What is online learning?,Online learning is education delivered partly or fully through the internet using digital tools and resources.
+Education,Explain online learning.,Online learning is education delivered partly or fully through the internet using digital tools and resources.
+Education,Tell me about online learning.,Online learning is education delivered partly or fully through the internet using digital tools and resources.
+Education,Can you explain online learning?,Online learning is education delivered partly or fully through the internet using digital tools and resources.
+Education,Give me a brief explanation of online learning.,Online learning is education delivered partly or fully through the internet using digital tools and resources.
+Education,What is classroom?,A classroom is a place or learning environment where students and teachers meet for instruction.
+Education,Explain classroom.,A classroom is a place or learning environment where students and teachers meet for instruction.
+Education,Tell me about classroom.,A classroom is a place or learning environment where students and teachers meet for instruction.
+Education,Can you explain classroom?,A classroom is a place or learning environment where students and teachers meet for instruction.
+Education,Give me a brief explanation of classroom.,A classroom is a place or learning environment where students and teachers meet for instruction.
+Education,What is syllabus?,"A syllabus outlines the topics, learning goals, schedule, and expectations for a course."
+Education,Explain syllabus.,"A syllabus outlines the topics, learning goals, schedule, and expectations for a course."
+Education,Tell me about syllabus.,"A syllabus outlines the topics, learning goals, schedule, and expectations for a course."
+Education,Can you explain syllabus?,"A syllabus outlines the topics, learning goals, schedule, and expectations for a course."
+Education,Give me a brief explanation of syllabus.,"A syllabus outlines the topics, learning goals, schedule, and expectations for a course."
+Education,What is curriculum?,"A curriculum is the overall set of subjects, learning objectives, and experiences planned for an educational program."
+Education,Explain curriculum.,"A curriculum is the overall set of subjects, learning objectives, and experiences planned for an educational program."
+Education,Tell me about curriculum.,"A curriculum is the overall set of subjects, learning objectives, and experiences planned for an educational program."
+Education,Can you explain curriculum?,"A curriculum is the overall set of subjects, learning objectives, and experiences planned for an educational program."
+Education,Give me a brief explanation of curriculum.,"A curriculum is the overall set of subjects, learning objectives, and experiences planned for an educational program."
+Education,What is assignment?,"An assignment is a task given to students to practice skills, explore a topic, or demonstrate learning."
+Education,Explain assignment.,"An assignment is a task given to students to practice skills, explore a topic, or demonstrate learning."
+Education,Tell me about assignment.,"An assignment is a task given to students to practice skills, explore a topic, or demonstrate learning."
+Education,Can you explain assignment?,"An assignment is a task given to students to practice skills, explore a topic, or demonstrate learning."
+Education,Give me a brief explanation of assignment.,"An assignment is a task given to students to practice skills, explore a topic, or demonstrate learning."
+Education,What is examination?,An examination is a formal assessment used to evaluate a student's knowledge or skills.
+Education,Explain examination.,An examination is a formal assessment used to evaluate a student's knowledge or skills.
+Education,Tell me about examination.,An examination is a formal assessment used to evaluate a student's knowledge or skills.
+Education,Can you explain examination?,An examination is a formal assessment used to evaluate a student's knowledge or skills.
+Education,Give me a brief explanation of examination.,An examination is a formal assessment used to evaluate a student's knowledge or skills.
+Education,What is assessment?,Assessment is the process of gathering evidence to understand and evaluate learning or performance.
+Education,Explain assessment.,Assessment is the process of gathering evidence to understand and evaluate learning or performance.
+Education,Tell me about assessment.,Assessment is the process of gathering evidence to understand and evaluate learning or performance.
+Education,Can you explain assessment?,Assessment is the process of gathering evidence to understand and evaluate learning or performance.
+Education,Give me a brief explanation of assessment.,Assessment is the process of gathering evidence to understand and evaluate learning or performance.
+Education,What is homework?,Homework is schoolwork assigned to be completed outside class time.
+Education,Explain homework.,Homework is schoolwork assigned to be completed outside class time.
+Education,Tell me about homework.,Homework is schoolwork assigned to be completed outside class time.
+Education,Can you explain homework?,Homework is schoolwork assigned to be completed outside class time.
+Education,Give me a brief explanation of homework.,Homework is schoolwork assigned to be completed outside class time.
+Education,What is note-taking?,Note-taking is the practice of recording key ideas and information to support learning and revision.
+Education,Explain note-taking.,Note-taking is the practice of recording key ideas and information to support learning and revision.
+Education,Tell me about note-taking.,Note-taking is the practice of recording key ideas and information to support learning and revision.
+Education,Can you explain note-taking?,Note-taking is the practice of recording key ideas and information to support learning and revision.
+Education,Give me a brief explanation of note-taking.,Note-taking is the practice of recording key ideas and information to support learning and revision.
+Education,What is study plan?,A study plan is a schedule that allocates time and tasks to help a learner prepare and reach goals.
+Education,Explain study plan.,A study plan is a schedule that allocates time and tasks to help a learner prepare and reach goals.
+Education,Tell me about study plan.,A study plan is a schedule that allocates time and tasks to help a learner prepare and reach goals.
+Education,Can you explain study plan?,A study plan is a schedule that allocates time and tasks to help a learner prepare and reach goals.
+Education,Give me a brief explanation of study plan.,A study plan is a schedule that allocates time and tasks to help a learner prepare and reach goals.
+Education,What is time management?,Time management is the process of planning and controlling how time is used to complete tasks effectively.
+Education,Explain time management.,Time management is the process of planning and controlling how time is used to complete tasks effectively.
+Education,Tell me about time management.,Time management is the process of planning and controlling how time is used to complete tasks effectively.
+Education,Can you explain time management?,Time management is the process of planning and controlling how time is used to complete tasks effectively.
+Education,Give me a brief explanation of time management.,Time management is the process of planning and controlling how time is used to complete tasks effectively.
+Education,What is critical thinking?,"Critical thinking is the careful evaluation of information, evidence, and reasoning before reaching a conclusion."
+Education,Explain critical thinking.,"Critical thinking is the careful evaluation of information, evidence, and reasoning before reaching a conclusion."
+Education,Tell me about critical thinking.,"Critical thinking is the careful evaluation of information, evidence, and reasoning before reaching a conclusion."
+Education,Can you explain critical thinking?,"Critical thinking is the careful evaluation of information, evidence, and reasoning before reaching a conclusion."
+Education,Give me a brief explanation of critical thinking.,"Critical thinking is the careful evaluation of information, evidence, and reasoning before reaching a conclusion."
+Education,What is problem-solving?,"Problem-solving is the process of identifying a problem, considering possible solutions, and choosing and testing an effective one."
+Education,Explain problem-solving.,"Problem-solving is the process of identifying a problem, considering possible solutions, and choosing and testing an effective one."
+Education,Tell me about problem-solving.,"Problem-solving is the process of identifying a problem, considering possible solutions, and choosing and testing an effective one."
+Education,Can you explain problem-solving?,"Problem-solving is the process of identifying a problem, considering possible solutions, and choosing and testing an effective one."
+Education,Give me a brief explanation of problem-solving.,"Problem-solving is the process of identifying a problem, considering possible solutions, and choosing and testing an effective one."
+Education,What is group discussion?,A group discussion is a structured conversation in which participants share ideas and consider a topic together.
+Education,Explain group discussion.,A group discussion is a structured conversation in which participants share ideas and consider a topic together.
+Education,Tell me about group discussion.,A group discussion is a structured conversation in which participants share ideas and consider a topic together.
+Education,Can you explain group discussion?,A group discussion is a structured conversation in which participants share ideas and consider a topic together.
+Education,Give me a brief explanation of group discussion.,A group discussion is a structured conversation in which participants share ideas and consider a topic together.
+Education,What is presentation?,"A presentation is an organized way of communicating information to an audience, often with spoken explanation and visual aids."
+Education,Explain presentation.,"A presentation is an organized way of communicating information to an audience, often with spoken explanation and visual aids."
+Education,Tell me about presentation.,"A presentation is an organized way of communicating information to an audience, often with spoken explanation and visual aids."
+Education,Can you explain presentation?,"A presentation is an organized way of communicating information to an audience, often with spoken explanation and visual aids."
+Education,Give me a brief explanation of presentation.,"A presentation is an organized way of communicating information to an audience, often with spoken explanation and visual aids."
+Education,What is research?,"Research is a systematic process of asking questions, gathering evidence, and analyzing information to develop understanding."
+Education,Explain research.,"Research is a systematic process of asking questions, gathering evidence, and analyzing information to develop understanding."
+Education,Tell me about research.,"Research is a systematic process of asking questions, gathering evidence, and analyzing information to develop understanding."
+Education,Can you explain research?,"Research is a systematic process of asking questions, gathering evidence, and analyzing information to develop understanding."
+Education,Give me a brief explanation of research.,"Research is a systematic process of asking questions, gathering evidence, and analyzing information to develop understanding."
+Education,What is citation?,"A citation identifies the source of information, ideas, or quotations used in academic work."
+Education,Explain citation.,"A citation identifies the source of information, ideas, or quotations used in academic work."
+Education,Tell me about citation.,"A citation identifies the source of information, ideas, or quotations used in academic work."
+Education,Can you explain citation?,"A citation identifies the source of information, ideas, or quotations used in academic work."
+Education,Give me a brief explanation of citation.,"A citation identifies the source of information, ideas, or quotations used in academic work."
+Education,What is plagiarism?,Plagiarism is presenting another person's words or ideas as one's own without appropriate acknowledgment.
+Education,Explain plagiarism.,Plagiarism is presenting another person's words or ideas as one's own without appropriate acknowledgment.
+Education,Tell me about plagiarism.,Plagiarism is presenting another person's words or ideas as one's own without appropriate acknowledgment.
+Education,Can you explain plagiarism?,Plagiarism is presenting another person's words or ideas as one's own without appropriate acknowledgment.
+Education,Give me a brief explanation of plagiarism.,Plagiarism is presenting another person's words or ideas as one's own without appropriate acknowledgment.
+Education,What is scholarship?,"A scholarship is financial support for education, often awarded based on criteria such as achievement, need, or specific eligibility."
+Education,Explain scholarship.,"A scholarship is financial support for education, often awarded based on criteria such as achievement, need, or specific eligibility."
+Education,Tell me about scholarship.,"A scholarship is financial support for education, often awarded based on criteria such as achievement, need, or specific eligibility."
+Education,Can you explain scholarship?,"A scholarship is financial support for education, often awarded based on criteria such as achievement, need, or specific eligibility."
+Education,Give me a brief explanation of scholarship.,"A scholarship is financial support for education, often awarded based on criteria such as achievement, need, or specific eligibility."
+Education,What is internship?,An internship is a temporary learning or work experience that helps a person gain practical skills in a field.
+Education,Explain internship.,An internship is a temporary learning or work experience that helps a person gain practical skills in a field.
+Education,Tell me about internship.,An internship is a temporary learning or work experience that helps a person gain practical skills in a field.
+Education,Can you explain internship?,An internship is a temporary learning or work experience that helps a person gain practical skills in a field.
+Education,Give me a brief explanation of internship.,An internship is a temporary learning or work experience that helps a person gain practical skills in a field.
+Education,What is degree?,A degree is an academic qualification awarded by an educational institution after completing a program of study.
+Education,Explain degree.,A degree is an academic qualification awarded by an educational institution after completing a program of study.
+Education,Tell me about degree.,A degree is an academic qualification awarded by an educational institution after completing a program of study.
+Education,Can you explain degree?,A degree is an academic qualification awarded by an educational institution after completing a program of study.
+Education,Give me a brief explanation of degree.,A degree is an academic qualification awarded by an educational institution after completing a program of study.
+Education,What is certificate course?,A certificate course is a learning program that awards a certificate after meeting its completion requirements.
+Education,Explain certificate course.,A certificate course is a learning program that awards a certificate after meeting its completion requirements.
+Education,Tell me about certificate course.,A certificate course is a learning program that awards a certificate after meeting its completion requirements.
+Education,Can you explain certificate course?,A certificate course is a learning program that awards a certificate after meeting its completion requirements.
+Education,Give me a brief explanation of certificate course.,A certificate course is a learning program that awards a certificate after meeting its completion requirements.
+Education,What is learning management system?,"A learning management system is software used to deliver, organize, track, and manage educational courses and activities."
+Education,Explain learning management system.,"A learning management system is software used to deliver, organize, track, and manage educational courses and activities."
+Education,Tell me about learning management system.,"A learning management system is software used to deliver, organize, track, and manage educational courses and activities."
+Education,Can you explain learning management system?,"A learning management system is software used to deliver, organize, track, and manage educational courses and activities."
+Education,Give me a brief explanation of learning management system.,"A learning management system is software used to deliver, organize, track, and manage educational courses and activities."
+Education,What is career guidance?,"Career guidance helps people explore career options and make informed decisions about education, training, and work."
+Education,Explain career guidance.,"Career guidance helps people explore career options and make informed decisions about education, training, and work."
+Education,Tell me about career guidance.,"Career guidance helps people explore career options and make informed decisions about education, training, and work."
+Education,Can you explain career guidance?,"Career guidance helps people explore career options and make informed decisions about education, training, and work."
+Education,Give me a brief explanation of career guidance.,"Career guidance helps people explore career options and make informed decisions about education, training, and work."

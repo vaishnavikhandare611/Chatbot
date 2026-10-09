@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <!-- Main Content Layout (Light Theme) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#FFFFFF">
+
+        <!-- Top Header Navigation Bar (Fixed at Top) -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="#FAFAFA"
+            android:paddingStart="12dp"
+            android:paddingEnd="12dp">
+
+            <ImageButton
+                android:id="@+id/hamburgerButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_hamburger"
+                android:contentDescription="Open Chat History Menu" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginStart="8dp">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_robot"
+                    android:layout_marginEnd="8dp"
+                    android:contentDescription="Chatbot Icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Chatbot"
+                    android:textColor="#111827"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <!-- Online AI Status Badge Pill -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:background="@drawable/bg_status_pill_blue"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp">
+
+                <View
+                    android:layout_width="7dp"
+                    android:layout_height="7dp"
+                    android:background="#007AFF"
+                    android:layout_marginEnd="6dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Online AI"
+                    android:textColor="#007AFF"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#E5E7EB" />
+
+        <!-- Central Chat Area Container -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <!-- Centered Initial Welcome Card -->
+            <LinearLayout
+                android:id="@+id/welcomeContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="24dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:background="@drawable/bg_welcome_card"
+                android:visibility="visible">
+
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_robot"
+                    android:layout_marginBottom="16dp"
+                    android:contentDescription="Welcome Robot Icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hello! I am your Machine Learning Assistant. Ask me anything about Machine Learning!"
+                    android:textColor="#111827"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:lineSpacingExtra="4dp"
+                    android:layout_marginBottom="8dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ask me anything"
+                    android:textColor="#6B7280"
+                    android:textSize="13sp"
+                    android:gravity="center" />
+
+            </LinearLayout>
+
+            <!-- Chat Messages RecyclerView -->
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/chatRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clipToPadding="false"
+                android:padding="12dp"
+                android:visibility="gone" />
+
+        </FrameLayout>
+
+        <!-- Attachment Preview Container -->
+        <LinearLayout
+            android:id="@+id/attachmentPreviewContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:background="#F8F9FA"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/attachmentThumbnail"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:scaleType="centerCrop"
+                android:background="#E5E7EB"
+                android:contentDescription="Attachment Preview" />
+
+            <TextView
+                android:id="@+id/attachmentNameText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginStart="12dp"
+                android:text="Attached File"
+                android:textColor="#111827"
+                android:textSize="14sp"
+                android:maxLines="2"
+                android:ellipsize="middle" />
+
+            <ImageButton
+                android:id="@+id/removeAttachmentButton"
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@android:drawable/ic_menu_close_clear_cancel"
+                android:contentDescription="Remove Attachment" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#E5E7EB" />
+
+        <!-- Bottom Message Input Composer (Fixed at Bottom - Light Theme) -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:background="#FAFAFA">
+
+            <ImageButton
+                android:id="@+id/attachMenuButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginEnd="6dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_attach_plus"
+                android:contentDescription="Attachment Menu (+)" />
+
+            <EditText
+                android:id="@+id/messageInput"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:minHeight="44dp"
+                android:maxLines="4"
+                android:inputType="text|textMultiLine"
+                android:gravity="center_vertical|start"
+                android:hint="Type your message..."
+                android:textColor="#111827"
+                android:textColorHint="#9CA3AF"
+                android:textSize="15sp"
+                android:paddingStart="14dp"
+                android:paddingEnd="14dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@drawable/bg_edit_text"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:cursorVisible="true"
+                android:textCursorDrawable="@null" />
+
+            <ImageButton
+                android:id="@+id/micButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginEnd="6dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_mic"
+                android:contentDescription="Microphone (Speech to text)" />
+
+            <Button
+                android:id="@+id/sendButton"
+                android:layout_width="wrap_content"
+                android:layout_height="44dp"
+                android:minWidth="64dp"
+                android:text="Send"
+                android:textSize="14sp"
+                android:backgroundTint="#007AFF"
+                android:textColor="#FFFFFF" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Left Navigation Drawer (Sidebar) -->
+    <include
+        layout="@layout/nav_drawer"
+        android:layout_width="290dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start" />
+
+</androidx.drawerlayout.widget.DrawerLayout>

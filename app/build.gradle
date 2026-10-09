@@ -1,0 +1,49 @@
+plugins {
+
+    alias(libs.plugins.android.application)
+    id("com.google.gms.google-services")
+}
+
+android {
+    namespace 'com.vaishnavi.chatbot'
+    compileSdk {
+        version = release(37)
+    }
+
+    defaultConfig {
+        applicationId "com.vaishnavi.chatbot"
+        minSdk 24
+        targetSdk 37
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            optimization {
+                enable false
+            }
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    implementation libs.activity.ktx
+    implementation libs.appcompat
+    implementation libs.constraintlayout
+    implementation libs.material
+    implementation(platform("com.google.firebase:firebase-bom:34.19.0"))
+    implementation("com.google.firebase:firebase-ai")
+    implementation("com.google.firebase:firebase-appcheck-debug")
+    implementation("com.google.guava:guava:31.0.1-android")
+    implementation("com.google.mlkit:text-recognition:16.0.1")
+    testImplementation libs.junit
+    androidTestImplementation libs.espresso.core
+    androidTestImplementation libs.ext.junit
+}
