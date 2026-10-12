@@ -13,3 +13,42 @@
 .externalNativeBuild
 .cxx
 local.properties
+Gradle build files
+
+.gradle/
+**/build/
+
+Local machine settings
+
+local.properties
+
+Android Studio temporary files
+
+.idea/caches/
+.idea/libraries/
+.idea/workspace.xml
+
+Temporary files
+
+*.iml
+.DS_Store
+Gradle
+
+.gradle/
+**/build/
+
+Android Studio
+
+.idea/
+*.iml
+
+Local machine settings
+
+local.properties
+
+Temporary files
+
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
